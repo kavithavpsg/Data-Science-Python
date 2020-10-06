@@ -1,0 +1,3 @@
+Q. Build a Neural Network model for 50_startups data to predict profit 
+
+Q. Predict the Burned Area due to Forest Fires using Neural Network model
