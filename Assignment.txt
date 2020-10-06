@@ -1,0 +1,4 @@
+Text Mining assignment
+ 
+1) Extract reviews of any product of your choice from Amazon
+2) Perform sentiment analysis
