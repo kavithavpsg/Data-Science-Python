@@ -1,0 +1,11 @@
+         antecedents              consequents  ...  leverage  conviction
+19            (LOTR)  (Gladiator, Green Mile)  ...      0.09         inf
+122          (LOTR1)     (LOTR2, Sixth Sense)  ...      0.08         1.8
+67      (Green Mile)     (LOTR1, Sixth Sense)  ...      0.08         1.8
+55      (Green Mile)      (LOTR, Sixth Sense)  ...      0.08         1.8
+91   (Harry Potter1)     (LOTR2, Sixth Sense)  ...      0.08         1.8
+13           (LOTR1)                  (LOTR2)  ...      0.16         inf
+73      (Green Mile)     (LOTR2, Sixth Sense)  ...      0.08         1.8
+60           (LOTR1)      (LOTR2, Green Mile)  ...      0.08         1.8
+115  (Harry Potter1)          (Harry Potter2)  ...      0.08         1.8
+77           (LOTR1)   (LOTR2, Harry Potter1)  ...      0.08         1.8

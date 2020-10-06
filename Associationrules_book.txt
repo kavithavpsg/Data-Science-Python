@@ -1,0 +1,11 @@
+   antecedents            consequents  ...  leverage  conviction
+737            (ItalAtlas)      (RefBks, ItalArt)  ...  0.019712    1.759156
+729              (ItalArt)    (ArtBks, ItalAtlas)  ...  0.019499    1.481070
+357              (ItalArt)     (ArtBks, ItalCook)  ...  0.043102    4.093557
+562     (RefBks, ItalCook)            (ItalAtlas)  ...  0.026372    1.885990
+896              (ItalArt)   (GeogBks, ItalAtlas)  ...  0.012971    1.276775
+860              (ItalArt)  (ItalCook, ItalAtlas)  ...  0.014043    1.307974
+941   (Florence, ItalCook)              (ItalArt)  ...  0.010671    2.053119
+809            (ItalAtlas)    (ChildBks, ItalArt)  ...  0.016229    1.569460
+955              (ItalArt)  (DoItYBks, ItalAtlas)  ...  0.010555    1.213662
+983  (YouthBks, ItalAtlas)              (ItalArt)  ...  0.009405    1.824995
